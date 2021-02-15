@@ -14,7 +14,7 @@
         font-weight: 300;
         color: $mainBlue;
         margin: 0;
-        font-size: 1.1rem;
+        font-size: 2.4rem;
 
        @mixin atSmall {
            font-size: 2rem;
