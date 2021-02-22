@@ -1,7 +1,7 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Your clarity. One trip away. We create soul restoring journeys that inspire you to be you.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/jlbokass/travel-site.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bokassa Jean le Grand",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jlbokass/travel-site/issues"
